@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/StocksRun/obj
+/StocksRun/bin/Debug/net6.0
+/StocksDomain/obj
+/StocksDomain/bin/Debug/net6.0
+/.vs/Stocks
