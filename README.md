@@ -5,7 +5,7 @@ If a price does not follow the defined rules, it should be rejected.
 
 ## Getting Started
 
-Clone the repository: git clone
+Clone the repository: git clone https://github.com/luisfff/price-validator
 
 Restore dependencies: dotnet restore
 
