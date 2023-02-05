@@ -7,3 +7,13 @@
 /StocksDomain/obj
 /StocksDomain/bin/Debug/net6.0
 /.vs/Stocks
+/.vs/PriceValidator/FileContentIndex
+/.vs/PriceValidator/v17
+/PriceValidator.Domain/bin/Debug/net6.0
+/PriceValidator.Domain/obj
+/PriceValidator.Runner/bin/Debug/net6.0
+/PriceValidator.Runner/obj/Debug/net6.0
+/PriceValidator.Runner/obj
+/.vs/ProjectEvaluation/stocks.projects.v5.2
+/.vs/ProjectEvaluation/stocks.metadata.v5.2
+/Stocks.sln.bak
