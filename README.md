@@ -7,9 +7,9 @@ If a price does not follow the defined rules, it should be rejected.
 
 Clone the repository: git clone https://github.com/luisfff/price-validator
 
-Restore dependencies: dotnet restore
+Restore dependencies: `dotnet restore`
 
-Run the benchmarks: dotnet run
+Run the benchmarks: `dotnet run`
 
 ## Validation Criteria
 The following criteria must be met for a price to be considered valid:
