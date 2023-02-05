@@ -22,7 +22,7 @@ If no sign is entered with the price, the entry should be disregarded.
 
 Prices can be fractional as they are traded in different currencies.
 
-## Solution
+## Approach
 To validate the prices, we will use a state machine approach. The initial state is START, and we will process each character in the input string to identify the next state.
 
  The input string is considered not a valid price if we reach an UNKNOWN state or if it ends in a DECIMAL point.
